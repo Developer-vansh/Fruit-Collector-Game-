@@ -4,7 +4,6 @@ bye
 
 hello
 
-bye bye
 
 
 hi hi
