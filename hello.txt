@@ -6,6 +6,5 @@ hello
 
 
 
-hi hi
 
 bye bye
